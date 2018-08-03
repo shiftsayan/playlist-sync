@@ -3,6 +3,7 @@
 These Python scripts and accompanying Spotify application sync my latest Apple Music playlists with my Spotify playlists so my weeb friends can enjoy my 🔥 music taste.
 
 ### Dependancies
+You will need the following packages installed for Python 2.7:
 * `webbrowser`
 * `requests`
 * `json`
